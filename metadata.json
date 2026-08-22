@@ -1,0 +1,6 @@
+{
+  "name": "PhantomGram",
+  "description": "A dark-themed messenger featuring Google Sign-In, channels, groups, and privacy settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
